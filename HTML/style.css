@@ -1,0 +1,153 @@
+body {
+    font-family: "Young Serif", serif;
+    ;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.section-one {
+    background-color: purple;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+}
+
+.contact {
+    background-color: aliceblue;
+    color: black;
+    text-decoration: none;
+    padding-bo: 50px;
+}
+
+.section-one,
+section-two,
+section-three,
+section-four,
+section-five {
+    padding: 30px;
+}
+
+.section-two,
+.section-three,
+.section-four,
+.section-five {
+    padding: 20px;
+
+}
+
+.section-two__title {
+    background-color: plum;
+}
+
+.section-three {
+    background-color: purple;
+    color: beige;
+    height: 200px;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+.section-three__desc {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.section-four {
+    background-color: plum;
+    color: whitesmoke;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    padding: 20px;
+    height: 200px;
+    vertical-align: top;
+    border-radius: 20px;
+}
+
+.section-five__desc {
+    background-color: plum
+}
+
+.section-five {
+    background-color: purple;
+}
+
+.section-three,
+.section-four__li {
+    list-style: none;
+}
+
+.section-five__title {
+    color: beige;
+}
+
+.section-five__head {
+    color: black;
+}
+
+.section-five__desc {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.contact-form {
+    margin-top: 20px;
+}
+
+.contact-form__input,
+.contact-form__textarea,
+.contact-form__submit {
+    margin-top: 20px;
+}
+
+.contact-form__input {
+    padding: 10px;
+    border: none;
+    border: solid plum 1px;
+}
+
+.contact-form__textarea {
+    padding: 10px;
+    border: 1px;
+    border: solid plum 1px;
+}
+
+.contact-form__submit {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: plum;
+    color: beige;
+    border: none;
+    border-radius: 1px;
+
+}
+.section-six__desc {
+    background-color: plum
+}
+
+.section-six {
+    padding: 20px;
+    background-color: purple;
+    border-radius: 20px;
+}
+.section-six__desc {
+    padding: 10px;
+    border-radius: 10px;
+}
+.section-six__title{
+    background-color: purple;
+    color: white;
+    display: inline;
+}
+.section-six__in{
+    color: white;
+}
